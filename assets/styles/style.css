@@ -4,16 +4,16 @@
   border: 0;
 }
 body {
-  background-image: url(/assets/image/background.jpg);
+  background-image: url(./assets/image/background.jpg);
 }
 
 @font-face {
   font-family: Amatic_SC;
-  src: url(/assets/styles/Amatic_SC/AmaticSC-Regular.ttf);
+  src: url(./assets/styles/Amatic_SC/AmaticSC-Regular.ttf);
 }
 @font-face {
   font-family: Amatic_SC_bold;
-  src: url(/assets/styles/Amatic_SC/AmaticSC-Bold.ttf);
+  src: url(./assets/styles/Amatic_SC/AmaticSC-Bold.ttf);
 }
 
 .header_name {
